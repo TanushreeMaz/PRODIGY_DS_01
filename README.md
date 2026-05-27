@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="world_people.png" width="700">
+</p>
+
+
+
 # PRODIGY_DS_01
 
 ## Task 01 – World Bank Population Distribution Analysis
