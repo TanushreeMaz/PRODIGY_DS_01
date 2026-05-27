@@ -63,11 +63,10 @@ https://data.worldbank.org/indicator/SP.POP.TOTL
 
 ## Files Included
 
-- Population_Analysis.pbix
 - Dashboard Screenshot
 - README.md
-
-  
+- LICENSE
+ 
 ---
 
 ## Dashboard Preview
