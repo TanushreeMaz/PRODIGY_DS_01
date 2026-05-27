@@ -88,8 +88,9 @@ https://data.worldbank.org/indicator/SP.POP.TOTL
 ---
 
 ## Author
-
 **Tanushree Mazumdar**
+
+This project was created for educational and internship purposes under Prodigy InfoTech.
 
 
 
