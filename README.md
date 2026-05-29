@@ -82,8 +82,7 @@ https://data.worldbank.org/indicator/SP.POP.TOTL
 
 ## LinkedIn
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
-
+🔗https://www.linkedin.com/feed/update/urn:li:activity:7466146245120790528/
 ---
 
 ## Author
